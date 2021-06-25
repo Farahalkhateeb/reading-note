@@ -20,24 +20,24 @@ here i summarize all of the markup in the chapter:
 | ------------- | ------------- |
 |" <p>  </p>  "  | to creat paragraph |
 |" <h>   </h> "   | to creat headings     |
-|  
+
 | "<b>   </b>"    |   bold by enclosing words in that tag |
 |" <i>     </i>"             | enclosing words in thix tag characters appears italic |
 |  "<sup>   </sup>"           |    contain character that should be super script as suffix of date |
- | "<sub> </sub> "|     contain character that should be sub script as chemical formulas |
- | "<br></br>" | new line |
- |"<hr></hr> " | add horizantal rule |
- |" <strong></strong>" | strong importance |
- |" <em></em> "| emphasis in italic |
- |"<q></q>"  | shorter quotes| 
- |"<blockquote>"| longer quote |
- | "<abbr></abbr>" | abbriviations|
- |" <cite></cite>" | citations |
- |"<dfn></dfn>"  | difinitions |
- |"<address></address>"| author details like adress|
- |"<ins></ins>" | insert content |
- |"<del></del> "| delete content |
-| "<s></s>"| strike through |
+|  "<sub> </sub> "|     contain character that should be sub script as chemical formulas |
+| "<br></br>" | new line |
+|<hr></hr> " | add horizantal rule |
+| " <strong></strong>" | strong importance |
+| " <em></em> "| emphasis in italic |
+|"<q></q>"  | shorter quotes| 
+|"<blockquote>"| longer quote |
+| "<abbr></abbr>" | abbriviations|
+|" <cite></cite>" | citations |
+|"<dfn></dfn>"  | difinitions |
+|"<address></address>"| author details like adress|
+|"<ins></ins>" | insert content |
+|"<del></del> "| delete content |
+|"<s></s>"| strike through |
 
 
 
